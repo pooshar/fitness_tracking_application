@@ -49,5 +49,5 @@ The program continues looping until the user chooses to exit by setting the runn
 
 Overall, the program allows the user to log fitness activities, view the activity log, and see the total calories burned. It utilizes the FitnessActivity and FitnessTracker classes to manage and track the activities.
 
-The output of a program is : 
+
 
